@@ -35,7 +35,7 @@ game.StarterGui:SetCore(
 }
 )
 local L_3_ = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local L_4_ = L_3_.CreateLib("fortnite.gay", "DarkTheme")
+local L_4_ = L_3_.CreateLib("fortnite.gay", "Syanpse")
 local L_5_ = L_4_:NewTab("Aimlock")
 local L_6_ = L_5_:NewSection("Cam Lock")
 L_6_:NewButton(
